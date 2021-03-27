@@ -138,3 +138,4 @@ config.py
 *.db
 *.sql
 *.sqlite3
+add_db.py
